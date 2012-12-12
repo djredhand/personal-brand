@@ -83,3 +83,15 @@ span.learn-more{
 	height: 20px;
 	margin: 0 0 30px 0;
 }
+#col-2-vid-a.col{
+	width:485px;
+}
+#col-2-vid-b.col{
+	width: 485px;
+}
+#center #main-container #col-2-vid-a a.btn-play, #center #main-container #col-2-vid-b a.btn-play{
+	background: url('http://www.pwc.com/us/en/careers/campus/assets/img/btns-sb37d58a605.png') 50% -989px no-repeat;
+}
+#center #main-container #col-2-vid-a a:hover.btn-play, #center #main-container #col-2-vid-b a:hover.btn-play {
+  	background: url('http://www.pwc.com/us/en/careers/campus/assets/img/btns-sb37d58a605.png') 50% -679px no-repeat;
+}
