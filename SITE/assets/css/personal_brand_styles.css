@@ -2,9 +2,17 @@
 	width:100%;
 	padding:0px;
 }
+#main-container #pagetitle.get-started{
+	width:100%;
+	padding:0px;
+}
 
-#pagetitle .hero-wrap{
+#pagetitle.personal-brand .hero-wrap{
 	background:url(../img/pb13-photoheaders-gavin-b.jpg) no-repeat;
+	color:#fff;
+}
+#pagetitle.get-started .hero-wrap{
+	background:url(../img/pb13-photoheaders-helen-b.jpg) no-repeat;
 	color:#fff;
 }
 #main-container #pagetitle .hero-wrap p{
@@ -15,8 +23,7 @@
 }
 #personal-brand-main-hero{
 	padding: 25px 20px 20px 20px;
-	
-
+	min-height: 230px;
 }
 #main-container #pagetitle #personal-brand-main-hero p{
 	width:500px;
