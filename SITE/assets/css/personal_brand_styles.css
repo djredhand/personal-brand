@@ -1,0 +1,78 @@
+#main-container #pagetitle.personal-brand{
+	width:100%;
+	padding:0px;
+}
+
+#pagetitle .hero-wrap{
+	background:url(../img/pb13-photoheaders-gavin-b.jpg) no-repeat;
+	color:#fff;
+}
+#main-container #pagetitle .hero-wrap p{
+	color:#fff;	
+}
+#main-container #pagetitle .hero-wrap h2{
+	color:#fff;	
+}
+#personal-brand-main-hero{
+	padding: 25px 20px 20px 20px;
+	
+
+}
+#main-container #pagetitle #personal-brand-main-hero p{
+	width:500px;
+}
+#main-container .block{
+	float: left;
+	width: 237px;
+}
+#main-container .block.top-left{
+	margin: 0px 5px 10px 0px;
+}
+#main-container .block.top-right{
+	margin: 0px 0px 10px 5px;
+}
+#main-container .block.bot-left{
+	margin: 0px 5px 0px 0px;
+}
+#main-container .block.bot-right{
+	margin: 0px 0px 0px 5px;
+}
+
+.block p{
+	padding: 0 15px !important;
+}
+.block span{
+	color:#fff;
+	font-weight: 100;
+}
+.block-content p.sub-head{
+	padding-top: 15px !important;
+	font-size: 17px !important;
+}
+.block-header{
+	font-size: 60px;
+	float: left;
+	height: 120px;
+	padding:0 15px;
+}
+span.learn-more{
+	font-weight: 100;
+	font-size: 14px;
+}
+#main-container .video-inner-cont p{
+	font-size: 18px;
+	font-family: georgia, serif;
+}
+#center #main-container .videos-grid{
+	height:100%;
+}
+
+#center #main-container #side-content #online-calc .heading h3{
+	background: url(../img/icon_sprite.png) no-repeat 0 -25px;
+	height: 25px;
+}
+#center #main-container #side-content #perssonal-brand-workbook .heading h3{
+	background: url(../img/icon_sprite.png) no-repeat 0 0px;
+	height: 20px;
+	margin: 0 0 30px 0;
+}
