@@ -93,3 +93,7 @@ span.learn-more{
 #center #main-container #col-2-vid-a a:hover.btn-play, #center #main-container #col-2-vid-b a:hover.btn-play {
   	background: url('../img/play_sprite.png') 50% -360px no-repeat;
 }
+.icw-col{
+	 float: left;
+	 width:50%;
+}
