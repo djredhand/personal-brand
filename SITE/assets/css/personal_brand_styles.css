@@ -97,3 +97,25 @@ span.learn-more{
 	 float: left;
 	 width:50%;
 }
+.heading-video h2{
+	font-size: 40px;
+	line-height: 38px;
+	margin: 0 0 40px;
+	padding: 30px 20px;
+}
+#three-vid{
+	margin:-22px 0 0 0!important;
+}
+.three-video-wrap{
+	clear: left;
+	padding: 10px 0 0 0;
+}
+h3.online-id{
+	font-size: 18px;
+	font-family: georgia, serif !important;
+	font-style: italic !important;
+	margin: 10px 0 0 0
+}
+p.online-id{
+	padding: 0px !important;
+}
