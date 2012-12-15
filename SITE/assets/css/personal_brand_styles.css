@@ -2,16 +2,55 @@
 	width:100%;
 	padding:0px;
 }
-#main-container #pagetitle.get-started{
-	width:100%;
-	padding:0px;
-}
-
 #pagetitle.personal-brand .hero-wrap{
 	background:url(../img/pb13-photoheaders-gavin-b.jpg) no-repeat;
 	color:#fff;
 }
+#main-container #pagetitle.get-started{
+	width:100%;
+	padding:0px;
+}
 #pagetitle.get-started .hero-wrap{
+	background:url(../img/pb13-photoheaders-helen-b.jpg) no-repeat;
+	color:#fff;
+}
+#main-container #pagetitle.z-factor{
+	width:100%;
+	padding:0px;
+}
+#pagetitle.z-factor .hero-wrap{
+	background:url(../img/pb13-photoheaders-helen-b.jpg) no-repeat;
+	color:#fff;
+}
+#main-container #pagetitle.x-factor{
+	width:100%;
+	padding:0px;
+}
+#pagetitle.x-factor .hero-wrap{
+	background:url(../img/pb13-photoheaders-helen-b.jpg) no-repeat;
+	color:#fff;
+}
+#main-container #pagetitle.ready-set-show{
+	width:100%;
+	padding:0px;
+}
+#pagetitle.ready-set-show .hero-wrap{
+	background:url(../img/pb13-photoheaders-helen-b.jpg) no-repeat;
+	color:#fff;
+}
+#main-container #pagetitle.stand-out{
+	width:100%;
+	padding:0px;
+}
+#pagetitle.stand-out .hero-wrap{
+	background:url(../img/pb13-photoheaders-helen-b.jpg) no-repeat;
+	color:#fff;
+}
+#main-container #pagetitle.understand-why{
+	width:100%;
+	padding:0px;
+}
+#pagetitle.understand-why .hero-wrap{
 	background:url(../img/pb13-photoheaders-helen-b.jpg) no-repeat;
 	color:#fff;
 }
@@ -21,11 +60,11 @@
 #main-container #pagetitle .hero-wrap h2{
 	color:#fff;	
 }
-#personal-brand-main-hero{
+#main-hero-content{
 	padding: 25px 20px 20px 20px;
 	min-height: 230px;
 }
-#main-container #pagetitle #personal-brand-main-hero p{
+#main-container #pagetitle #main-hero-content p{
 	width:500px;
 }
 #main-container .block{
