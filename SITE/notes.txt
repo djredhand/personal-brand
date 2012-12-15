@@ -1,1 +1,5 @@
 1) Need to know which headers to use on each page.
+2) Setup links to stand out online
+3) All links for the get started section
+4) Link for "See all events" on personal-brand/index page
+ 
