@@ -148,6 +148,7 @@ span.learn-more{
 .three-video-wrap{
 	clear: left;
 	padding: 10px 0 0 0;
+	margin: -23px 0 0 0;
 }
 h3.online-id{
 	font-size: 18px;
@@ -157,4 +158,7 @@ h3.online-id{
 }
 p.online-id{
 	padding: 0px !important;
+}
+#center #main-container a.3-vid-title-link{
+	color:#fff !important;
 }
